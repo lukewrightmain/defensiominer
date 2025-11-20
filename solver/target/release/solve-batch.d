@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/DefensioMiner/solver/target/release/solve-batch: /data/data/com.termux/files/home/DefensioMiner/solver/src/bin/solve-batch.rs /data/data/com.termux/files/home/DefensioMiner/solver/src/lib.rs /data/data/com.termux/files/home/DefensioMiner/solver/src/rom.rs
